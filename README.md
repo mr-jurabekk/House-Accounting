@@ -24,4 +24,5 @@ $ php artisan migrate:fresh --seed
 
 
 ### Model's structures
+
 ![](diagram.png)
